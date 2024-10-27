@@ -10,7 +10,7 @@
 
 ### My Code Snippets
 
-Check out [this code snippet](https://gist.github.com/your-username/gist-id](https://gist.github.com/wenstef/b4b78e35fc1fc8e8ba690c8da1de044a) I created for a school assignment. 
+Check out [this code snippet](https://gist.github.com/wenstef/b4b78e35fc1fc8e8ba690c8da1de044a) I created for a school assignment. 
 
 
 
