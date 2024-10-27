@@ -10,7 +10,7 @@
 
 ### My Code Snippets
 
-Check out [this code snippet](https://gist.github.com/wenstef/b4b78e35fc1fc8e8ba690c8da1de044a) I created for a school assignment.  
+Check out [this code snippet](https://gist.github.com/wenstef/b4b78e35fc1fc8e8ba690c8da1de044a) I created for a school assignment. The assignment required a desktop application written in JavaFX. This code is part of the **DogDays** project, where users can track their dogs.  
 
 ## Software Development Skill Matrix
 
