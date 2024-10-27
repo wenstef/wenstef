@@ -8,6 +8,8 @@
 
 ⚡ Fun fact: Even though I'm in my late 30s, I often feel like a newbie in the coding world. But with every line of code I write, I'm reminded that it's never too late to learn something new and exciting. 
 
+Here is a link to my Gist to view source code I wrote for a school assignment: https://gist.github.com/wenstef/b4b78e35fc1fc8e8ba690c8da1de044a
+
 <!---
 wenstef/wenstef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
